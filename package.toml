@@ -1,22 +1,22 @@
 [[plugin.deps]]
 use = "stelcodes/bunny"
-rev = "ea27f37"
-hash = "7956295208401cdbdf2b673b73437edd"
+rev = "71b14a3"
+hash = "18a2829738214fe9bca99a2fef19113d"
 
 [[plugin.deps]]
 use = "boydaihungst/restore"
-rev = "1bfd5f7"
-hash = "f61cea367316f9459590f5c1dc4fc"
+rev = "0e08704"
+hash = "e4d7c06510b4fe5f64ae31fbb4e017d6"
 
 [[flavor.deps]]
 use = "tkapias/moonfly"
 rev = "395c686"
-hash = ""
+hash = "11223984767b762067b2ae07815fb43b"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-mocha"
-rev = "fd85060"
-hash = ""
+rev = "0f9204b"
+hash = "7dfe41c9c3d9be76da8a844263d0bbed"
 
 [[flavor.deps]]
 use = "bennyyip/gruvbox-dark"
@@ -30,15 +30,15 @@ hash = "87da3630653b6d272e43658418599188"
 
 [[flavor.deps]]
 use = "gosxrgxx/flexoki-dark"
-rev = "28e1977"
-hash = "bc4620db89cf55bd91906c239f8fa1a8"
+rev = "25d28ce"
+hash = "8e6dd7e42a127173e4535993d3e0e393"
 
 [[flavor.deps]]
 use = "malick-tammal/monokai"
-rev = "97110ca"
-hash = "17b34be0a0dbd22d4f3d19ac6c2ef0cc"
+rev = "57be034"
+hash = "9fbb5104646853a933446746b88118a6"
 
 [[flavor.deps]]
 use = "matt-dong-123/gruvbox-material"
-rev = "6c36491"
-hash = "564f2335540ee2c440c3b671bc28ac60"
+rev = "e0fd2d8"
+hash = "8f46ca96c0bbe1bdfb4fa201dd5eed4b"
