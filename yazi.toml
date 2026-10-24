@@ -94,7 +94,9 @@ preloaders = [
 ]
 
 prepend_previewers = [
-  { mime = "image/*", run = "nvim-aware-image" },
+  { mime = "image/*", run = "nvim-aware-graphics image" },
+  { mime = "video/*", run = "nvim-aware-graphics video" },
+  { mime = "application/pdf", run = "nvim-aware-graphics pdf" },
 ]
 
 previewers = [
