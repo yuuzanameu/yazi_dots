@@ -93,9 +93,9 @@ preloaders = [
 	{ mime = "application/pdf", run = "pdf" },
 ]
 
-# prepend_previewers = [
-#   { mime = "image/*", run = "nvim-aware-image" },
-# ]
+prepend_previewers = [
+  { mime = "image/*", run = "nvim-aware-image" },
+]
 
 previewers = [
 	{ url = "*/", run = "folder", sync = true },
